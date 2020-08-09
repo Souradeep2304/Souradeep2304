@@ -17,10 +17,10 @@
 <br>
 <br>
 <p align="center">
-<a href="https://twitter.com/Souradeepbaner1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="souradeep" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/sbanerjee2304/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="souradeep" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/13862223/souradeep-banerjee-ais" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="souradeep" height="20" width="20" /></a>
-<a href="https://www.instagram.com/banerjee.souradeep/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="souradeep" height="20" width="20" /></a>
+<a href="https://twitter.com/Souradeepbaner1" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="souradeep" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/sbanerjee2304/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="souradeep" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/13862223/souradeep-banerjee-ais" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="souradeep" height="20" width="20" /></a>
+<a href="https://www.instagram.com/banerjee.souradeep/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="souradeep" height="20" width="20" /></a>
 </p>
 <br>
 <br>
