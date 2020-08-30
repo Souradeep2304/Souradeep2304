@@ -12,7 +12,7 @@
 </p>
 <br>
 <br>
-<br>https://ibb.co/Ptqv7ZP
+<br>
 <br>
 <br>
 <br>
